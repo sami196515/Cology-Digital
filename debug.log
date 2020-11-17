@@ -73,3 +73,6 @@
 [1117/141823.785:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Toegang geweigerd. (0x5)
 [1117/141823.794:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: De pipe is beëindigd. (0x6D)
 [1117/141823.801:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Toegang geweigerd. (0x5)
+[1117/185941.673:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Toegang geweigerd. (0x5)
+[1117/185941.684:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: De pipe is beëindigd. (0x6D)
+[1117/185941.696:ERROR:file_io_win.cc(180)] CreateFile C:\Program Files (x86)\settings.dat: Toegang geweigerd. (0x5)
